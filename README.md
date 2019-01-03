@@ -36,3 +36,6 @@ See the section about [deployment](#deployment) for more information.
 I added [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) to the project
 
 and mobx
+
+and following this:
+https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/
